@@ -18,6 +18,8 @@ If you want you can reach me at:
     <li><a href="http://pe.linkedin.com/in/texai" target="_blank">Linked-In</a></li>
 </ul>
 
+You can read my <a href="http://blog.texai.me">Blog</a>. Or take a look at my <a href="#">CV</a>.
+If you want to contact me, please feel free to drop me an email to ernestex@gmail.com
 
 </body>
 </html>
