@@ -166,7 +166,11 @@ if($isPost){
     <form method="POST">
         Capital: <input size="5" name="capital"  <?=$isPost?' value="'.$c->cap.'"':''?>> |
         n&deg; Cuotas: <input size="2" name="nc" <?=$isPost?' value="'.$c->nc .'"':''?>> |
-        TEA: <select name="tea"><option value="0.1108">11.08%</option></select> |
+        TEA: <select name="tea">
+                <option value="0.1550">15.50%</option>
+                <option value="0.2700">27.00%</option>
+                <option value="0.1108">11.08%</option>
+             </select> |
         <input type=submit>
     </form>
 
