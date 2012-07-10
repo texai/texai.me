@@ -168,6 +168,7 @@ if($isPost){
         n&deg; Cuotas: <input size="2" name="nc" <?=$isPost?' value="'.$c->nc .'"':''?>> |
         TEA: <select name="tea">
                 <option value="0.1550">15.50%</option>
+                <option value="0.1900">19.00%</option>
                 <option value="0.2700">27.00%</option>
                 <option value="0.1108">11.08%</option>
              </select> |
