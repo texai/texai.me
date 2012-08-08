@@ -20,7 +20,7 @@
       you can <a href="http://twitter.com/texai" target="_blank">follow me</a>, take a look at my
       <a href="http://github.com/texai" target="_blank">source code</a>, my
       <a href="http://pe.linkedin.com/in/texai" target="_blank">professional profile</a> or my
-      <a href="CV-Ernesto_Anaya_Ruiz-dic2011.pdf" target="_blank">cv</a>.</p>
+      <a href="CV-Ernesto-Anaya-2012-08.pdf" target="_blank">cv</a>.</p>
       <p>If you want to reach me, please feel free to drop me an email to ernestex@gmail.com</p>
       <h2>More Links</h2>
       <ul>
