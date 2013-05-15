@@ -1,5 +1,10 @@
 <?php
 header('Content-Type: text/plain; charset=UTF-8');
+set_include_path(implode(PATH_SEPARATOR, array('/apps/lib/zf/library', get_include_path())));
+include('Zend/Loader/Autoloader.php');
+Zend_Loader_Autoloader::getInstance();
+$l = new Zend_Log(new Zend_Log_Writer_Stream(dirname(__FILE__).'/temarios.log'));
+$l->info(date('Y-m-d H:i:s') . ' | ' . $_SERVER['REMOTE_ADDR']);
 ?>
 /******************************************************************************/
 /**                               ZEND FRAMEWORK                             **/
