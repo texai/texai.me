@@ -429,10 +429,16 @@ Symfony Framework, podrá ser capaz de desarrollar una aplicación web cumplient
 con las medidas de seguridad, performance, mantenibilidad necesarias para las
 exigencias de una aplicación real en producción.
 
-Symfony Framework es uno de los principales frameworks del lenguaje de scripting
-más usado en el mundo, PHP. En el curso se mostrará como resolver los problemas
-más comunes propios del desarrollo de aplicaciones web, usando las múltuples
-ventajas que ofrece este framework.
+Ruby on Rails, también conocido como RoR o Rails, es un framework de aplicaciones
+web de código abierto escrito en el lenguaje de programación Ruby, siguiendo el
+paradigma de la arquitectura Modelo Vista Controlador (MVC). Trata de combinar la
+simplicidad con la posibilidad de desarrollar aplicaciones del mundo real escribiendo
+menos código que con otros frameworks y con un mínimo de configuración. El lenguaje
+de programación Ruby permite la metaprogramación, de la cual Rails hace uso, lo
+que resulta en una sintaxis que muchos de sus usuarios encuentran muy legible.
+Rails se distribuye a través de RubyGems, que es el formato oficial de paquete y
+canal de distribución de bibliotecas y aplicaciones Ruby.
+
 
 REQUISITOS:
 
